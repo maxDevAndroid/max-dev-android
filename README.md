@@ -9,7 +9,7 @@
 
 ## My Skills
 
-**Aplicações e dados**
+**Languages*
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -23,7 +23,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utils**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+**IDES and Development Tools**
 
 ![Android Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=android-studio&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -47,7 +47,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Where am I ?
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/maxwell-chaves-68654b1a0)]([LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/maxwell-chaves-68654b1a0))
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/codeMasterBranchBR)
