@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-## Sobre mim
+## About me
 
 - 🤔 Explore new technologies and develop new softwares solutions.
 - 🎓 Study CC on University. Degree
 - 💼 Work with como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🌱 Learning more about javaScript,typeScript.
 
 ## My Skills
 
