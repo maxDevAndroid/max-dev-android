@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?codeMasterBranchBR=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=devMasterBranchBR&color=006bed)
 
 ## About me
 
@@ -45,5 +45,5 @@
 
 ## Where am I ?
 
-[![Linkedin](https://img.shields.io/badge/-maxwell-chaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/maxwell-chaves-68654b1a0)]([LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/maxwell-chaves-68654b1a0))
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/maxwell-chaves-68654b1a0)]([https://br.linkedin.com/in/maxwell-chaves-68654b1a0(https://br.linkedin.com/in/maxwell-chaves-68654b1a0))
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/codeMasterBranchBR)
