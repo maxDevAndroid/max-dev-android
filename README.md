@@ -1,11 +1,11 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?codeMasterBranchBR=iuricode&color=006bed)
 
 ## About me
 
 - 🤔 Explore new technologies and develop new softwares solutions.
-- 🎓 Study CC on University. Degree
-- 💼 Work with como {stack em que você trabalhar} na {empresa}.
-- 🌱 Learning more about javaScript,typeScript.
+- 🎓 Study Computer Science on University. Degree
+- 💼 Work as Android Developer.
+- 🌱 Learning more about kmp, compose, flow.
 
 ## My Skills
 
@@ -16,10 +16,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
@@ -31,7 +28,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **IDES and Development Tools**
 
@@ -49,5 +45,5 @@
 
 ## Where am I ?
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/maxwell-chaves-68654b1a0)]([LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/maxwell-chaves-68654b1a0))
+[![Linkedin](https://img.shields.io/badge/-maxwell-chaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/maxwell-chaves-68654b1a0)]([LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/maxwell-chaves-68654b1a0))
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/codeMasterBranchBR)
