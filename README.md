@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=devMasterBranchBR&color=006bed)
+![](https://komarev.com/ghpvc/?username=maxDevAndroid&color=006bed)
 
 ## About me
 
@@ -40,10 +40,10 @@
 <br/>
 
 <a href="https://github.com/maxDevAndroid" title="Perfil do Maxwell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeMasterBranchBR&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxDevAndroid&theme=dracula&show_icons=true" />
 </a>
 
 ## Where am I ?
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/maxwell-chaves-68654b1a0)]([https://br.linkedin.com/in/maxwell-chaves-68654b1a0(https://br.linkedin.com/in/maxwell-chaves-68654b1a0))
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/codeMasterBranchBR)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/maxDevAndroid)
